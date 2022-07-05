@@ -8,7 +8,7 @@
     <a href="https://twitter.com/elieceraguilar3">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://colab.research.google.com/github/eliecer507/TP2_tarea03_p02/blob/main/main.ipynb">
+    <a href="https://colab.research.google.com/github/eliecer507/TP2_T03_P5/blob/main/P05.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 </div>
